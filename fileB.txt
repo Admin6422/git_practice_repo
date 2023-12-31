@@ -2,4 +2,3 @@ This is fileB.
 first change.
 second change.
 restore...
-revert example
