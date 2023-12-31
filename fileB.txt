@@ -1,3 +1,0 @@
-This is fileB.
-first change.
-second change.
